@@ -15,4 +15,7 @@ I'm 31 years old. At that moment I work as a team leader in an oil company. At s
 * Git, GitHub, GitLab
 * VS Code, Intelij IDEA
 * Figma, Adobe Photoshop, Zeplin
-
+## Languges:
+English - Pre-Intermediate/Intermediate
+Russian - Native
+ 
