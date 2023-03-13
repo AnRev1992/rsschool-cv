@@ -1,0 +1,21 @@
+* {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1,
+h2 {
+  padding: 10px 20px;
+  margin: 0 auto;
+  width: 50%;
+  border: 1px solid black;
+}
+
+body {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+p {
+  width: 350px;
+  color: rgb(60, 30, 170);
+}
